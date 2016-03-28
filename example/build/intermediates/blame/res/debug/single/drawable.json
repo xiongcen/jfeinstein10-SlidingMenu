@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__progress_horizontal_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/turkey.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/turkey.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__list_selector_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__progress_horizontal_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/heron.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/heron.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__activated_background_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__activated_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/peacock.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/peacock.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/shadowright.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/shadowright.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/penguin.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/penguin.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__ic_clear_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_right_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/vulture.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/vulture.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/octocat_scaled.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/octocat_scaled.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/octocat.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/octocat.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/flamingo.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/flamingo.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/ostrich.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/ostrich.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/shadow.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/toucan.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/toucan.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__search_dropdown_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__search_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__item_background_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__activated_background_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__spinner_ab_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__search_dropdown_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__ic_clear.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__ic_clear.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/eagle.png",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/eagle.png"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__tab_indicator_ab_holo.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/new_indicator.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/drawable/new_indicator.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__btn_cab_done_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__spinner_ab_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__list_selector_background_transition_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__btn_cab_done_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/drawable/abs__list_selector_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/drawable/abs__list_selector_holo_dark.xml"
+    }
+]

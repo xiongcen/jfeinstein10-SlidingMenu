@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/libs"><file name="crittercism_v3_0_3_sdkonly.jar" path="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/libs/crittercism_v3_0_3_sdkonly.jar"/></source></dataSet><dataSet config="debug"><source path="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/src/debug/jniLibs"/></dataSet></merger>

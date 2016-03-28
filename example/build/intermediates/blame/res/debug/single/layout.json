@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__popup_menu_item_layout.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/list_grid.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/list_grid.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__screen_simple.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/properties.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/properties.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__simple_dropdown_hint.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_mode_bar.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/list.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/list.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__list_menu_item_checkbox.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/grid_item.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_bar_tab_bar_view.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__list_menu_item_icon.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/slidingmenumain.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu.libraries/SlidingMenu-master/unspecified/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_mode_close_item.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_menu_layout.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_menu_item_layout.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__list_menu_item_radio.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/menu_frame.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/menu_frame.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__screen_action_bar.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_bar_home.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/menu_frame_two.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/menu_frame_two.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view_list_item.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/responsive_content_frame.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/responsive_content_frame.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/content_frame.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/content_frame.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/pager.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/pager.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_bar_title_item.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/github_button.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout/github_button.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__search_view.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__search_view.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout/abs__action_bar_tab.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout/abs__action_bar_tab.xml"
+    }
+]

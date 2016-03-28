@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout-xlarge-v4/responsive_content_frame.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/res/layout-xlarge/responsive_content_frame.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout-xlarge-v4/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/layout-xlarge-v4/abs__screen_action_bar.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout-xlarge-v4/abs__screen_action_bar.xml"
+    }
+]
