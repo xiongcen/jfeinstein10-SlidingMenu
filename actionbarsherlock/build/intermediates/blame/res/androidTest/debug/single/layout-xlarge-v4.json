@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/actionbarsherlock/build/intermediates/res/merged/androidTest/debug/layout-xlarge-v4/abs__screen_action_bar.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/actionbarsherlock/build/intermediates/bundles/debug/res/layout-xlarge-v4/abs__screen_action_bar.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/actionbarsherlock/build/intermediates/res/merged/androidTest/debug/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/actionbarsherlock/build/intermediates/bundles/debug/res/layout-xlarge-v4/abs__screen_action_bar_overlay.xml"
     },
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/actionbarsherlock/build/intermediates/res/merged/androidTest/debug/layout-xlarge-v4/abs__screen_action_bar_overlay.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/actionbarsherlock/build/intermediates/bundles/debug/res/layout-xlarge-v4/abs__screen_action_bar_overlay.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/actionbarsherlock/build/intermediates/res/merged/androidTest/debug/layout-xlarge-v4/abs__screen_action_bar.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/actionbarsherlock/build/intermediates/bundles/debug/res/layout-xlarge-v4/abs__screen_action_bar.xml"
     }
 ]

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_item.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_item.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_item.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_item.xml"
     },
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_dropdown_item.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_dropdown_item.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/androidTest/debug/layout-v14/sherlock_spinner_dropdown_item.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/layout-v14/sherlock_spinner_dropdown_item.xml"
     }
 ]

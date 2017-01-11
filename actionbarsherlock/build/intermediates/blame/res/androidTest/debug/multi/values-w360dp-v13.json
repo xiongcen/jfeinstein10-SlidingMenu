@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/actionbarsherlock/build/intermediates/res/merged/androidTest/debug/values-w360dp-v13/values-w360dp-v13.xml",
+        "outputFile": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/actionbarsherlock/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/actionbarsherlock/build/intermediates/bundles/debug/res/values-w360dp-v13/values-w360dp-v13.xml",
+                    "file": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/actionbarsherlock/build/intermediates/bundles/debug/res/values-w360dp-v13/values-w360dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

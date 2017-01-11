@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_holo_light.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_holo_light.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_light.xml"
     },
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_light.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_light.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_dark.xml"
     },
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_dark.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_disable_only_holo_dark.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_holo_light.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_holo_light.xml"
     },
     {
-        "merged": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_holo_dark.xml",
-        "source": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_holo_dark.xml"
+        "merged": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/debug/color/abs__primary_text_holo_dark.xml",
+        "source": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/color/abs__primary_text_holo_dark.xml"
     }
 ]

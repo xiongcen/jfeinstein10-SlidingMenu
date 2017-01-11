@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/res/merged/androidTest/debug/values-w600dp-v13/values-w600dp-v13.xml",
+        "outputFile": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "file": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/libraries/SlidingMenu-master/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/values-w600dp-v13/values-w600dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

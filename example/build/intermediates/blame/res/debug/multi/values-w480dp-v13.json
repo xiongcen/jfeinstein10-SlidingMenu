@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/res/merged/debug/values-w480dp-v13/values-w480dp-v13.xml",
+        "outputFile": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/values-w480dp-v13/values-w480dp-v13.xml",
+                    "file": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/values-w480dp-v13/values-w480dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 179
                 },
                 "from": {
-                    "file": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/values-w480dp-v13/values-w480dp-v13.xml",
+                    "file": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/values-w480dp-v13/values-w480dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 241
                 },
                 "from": {
-                    "file": "/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/res/values-w480dp-v13/values-w480dp-v13.xml",
+                    "file": "/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/res/values-w480dp-v13/values-w480dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

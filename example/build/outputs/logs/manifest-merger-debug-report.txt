@@ -1,120 +1,120 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:2:1-46:12
-	xmlns:android
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:2:11-69
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:2:1-46:12
 	package
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:3:5-54
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:7:5-9:41
-MERGED from [SlidingMenu.libraries:SlidingMenu-master:unspecified] /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu.libraries/SlidingMenu-master/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [SlidingMenu:actionbarsherlock:unspecified] /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:7:5-9:41
+MERGED from [jfeinstein10-SlidingMenu.libraries:SlidingMenu-master:unspecified] /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu.libraries/SlidingMenu-master/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [jfeinstein10-SlidingMenu:actionbarsherlock:unspecified] /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:8:9-34
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
-		INJECTED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
+		INJECTED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:11:5-66
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:11:5-66
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:11:22-64
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:11:22-64
 application
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:13:5-44:19
-MERGED from [SlidingMenu:actionbarsherlock:unspecified] /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/AndroidManifest.xml:11:5-20
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:13:5-44:19
+MERGED from [jfeinstein10-SlidingMenu:actionbarsherlock:unspecified] /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:15:9-41
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:14:9-45
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:14:9-45
 	android:theme
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:16:9-44
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:16:9-44
 activity#com.jeremyfeinstein.slidingmenu.example.ExampleListActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:17:9-27:20
-	android:uiOptions
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:21:13-57
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:17:9-27:20
 	android:configChanges
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:19:13-72
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:19:13-72
+	android:uiOptions
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:21:13-57
 	android:theme
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:20:13-70
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:20:13-70
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:18:13-48
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:18:13-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:23:17-69
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:23:25-66
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:25:17-77
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:25:27-74
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:25:27-74
 activity#com.jeremyfeinstein.slidingmenu.example.PropertiesActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:28:9-56
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:28:9-56
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:28:19-53
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:28:19-53
 activity#com.jeremyfeinstein.slidingmenu.example.LeftAndRightActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:29:9-58
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:29:9-58
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:29:19-55
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:29:19-55
 activity#com.jeremyfeinstein.slidingmenu.example.AttachExample
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:30:9-51
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:30:9-51
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:30:19-48
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:30:19-48
 activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomScaleAnimation
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:31:9-63
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:31:9-63
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:31:19-60
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:31:19-60
 activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomZoomAnimation
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:32:9-62
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:32:9-62
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:32:19-59
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:32:19-59
 activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomRotateAnimation
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:33:9-64
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:33:9-64
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:33:19-61
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:33:19-61
 activity#com.jeremyfeinstein.slidingmenu.example.anim.CustomSlideAnimation
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:34:9-63
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:34:9-63
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:34:19-60
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:34:19-60
 activity#com.jeremyfeinstein.slidingmenu.example.SlidingTitleBar
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:35:9-53
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:35:9-53
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:35:19-50
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:35:19-50
 activity#com.jeremyfeinstein.slidingmenu.example.SlidingContent
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:36:9-52
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:36:9-52
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:36:19-49
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:36:19-49
 activity#com.jeremyfeinstein.slidingmenu.example.ViewPagerActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:37:9-55
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:37:9-55
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:37:19-52
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:37:19-52
 activity#com.jeremyfeinstein.slidingmenu.example.fragments.FragmentChangeActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:38:9-70
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:38:9-70
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:38:19-67
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:38:19-67
 activity#com.jeremyfeinstein.slidingmenu.example.fragments.ResponsiveUIActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:39:9-68
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:39:9-68
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:39:19-65
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:39:19-65
 activity#com.jeremyfeinstein.slidingmenu.example.fragments.BirdActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:40:9-42:73
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:40:9-42:73
 	android:theme
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:42:13-70
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:42:13-70
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:41:13-51
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:41:13-51
 activity#com.crittercism.NotificationActivity
-ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:43:9-72
+ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:43:9-72
 	android:name
-		ADDED from /Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/AndroidManifest.xml:43:19-70
+		ADDED from /Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/AndroidManifest.xml:43:19-70

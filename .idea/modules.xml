@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SlidingMenu.iml" filepath="$PROJECT_DIR$/SlidingMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/SlidingMenu-master/SlidingMenu-master.iml" filepath="$PROJECT_DIR$/libraries/SlidingMenu-master/SlidingMenu-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jfeinstein10-SlidingMenu.iml" filepath="$PROJECT_DIR$/jfeinstein10-SlidingMenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
     </modules>
   </component>

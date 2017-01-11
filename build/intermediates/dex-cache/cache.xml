@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu/actionbarsherlock/unspecified/jars/classes.jar"
+        jar="/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/libs/crittercism_v3_0_3_sdkonly.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="8ae47bbbd476993b14233aaba799b6b2b242ef78">
-        <dex dex="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/pre-dexed/debug/SlidingMenu-actionbarsherlock-unspecified_a97894400f5c2c0ae12f4e9fb29f210f4f66b643.jar" />
+        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
+        <dex dex="/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly_ab83689b315b2beb8664c27ba0e501f6933fa1c5.jar" />
     </item>
     <item
-        jar="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/exploded-aar/SlidingMenu.libraries/SlidingMenu-master/unspecified/jars/classes.jar"
+        jar="/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu/actionbarsherlock/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="732df364899e50343b99230c8bc6f5004c7172b6">
-        <dex dex="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/pre-dexed/debug/SlidingMenu.libraries-SlidingMenu-master-unspecified_65e65309208f8dfb4870f5d35327f329a84c6c30.jar" />
+        sha1="7f1a7dd559ae14ac7d46e508bd0aa834894f0ffa">
+        <dex dex="/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/pre-dexed/debug/jfeinstein10-SlidingMenu-actionbarsherlock-unspecified_f75efdcd4c665e17ca361fb0b9a77bb72a000dd2.jar" />
+    </item>
+    <item
+        jar="/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/exploded-aar/jfeinstein10-SlidingMenu.libraries/SlidingMenu-master/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="244d789b9ea834f4740cf8ea0ce6e3f5ca922147">
+        <dex dex="/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/pre-dexed/debug/jfeinstein10-SlidingMenu.libraries-SlidingMenu-master-unspecified_b21f48cef3d99c4de1ed103d5f8268b8c28720ea.jar" />
     </item>
     <item
         jar="/Users/xiongcen/Documents/develop/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/pre-dexed/debug/support-v4-18.0.0_ed336e45c89cd3b775c49efb5663dc8ddafedbe8.jar" />
-    </item>
-    <item
-        jar="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/libs/crittercism_v3_0_3_sdkonly.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
-        <dex dex="/Users/xiongcen/AndroidStudioProjects/SlidingMenu/example/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly_1cb0a9b0486256e763c4db618c86317877cda91b.jar" />
+        <dex dex="/Users/xiongcen/AndroidStudioProjects/jfeinstein10-SlidingMenu/example/build/intermediates/pre-dexed/debug/support-v4-18.0.0_ed336e45c89cd3b775c49efb5663dc8ddafedbe8.jar" />
     </item>
 
 </items>
